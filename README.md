@@ -1,6 +1,6 @@
 
+![image alt](https://github.com/Sheetal979/Spotify-clone/blob/master/spotify.png?raw=true)
 
-https://github.com/Sheetal979/Spotify-clone/blob/master/spotify.png?raw=true
 
 
 
